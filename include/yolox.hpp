@@ -1,7 +1,7 @@
 /**
  * @file   yolox.hpp
  * @brief  Deploying YOLOx model and do interpreter on QCS6490
- * @author Yopeng Zhao 
+ * @author Yipeng Zhao 
  * @ref    https://autowarefoundation.github.io/autoware.universe/main/perception/tensorrt_yolox/
 */
 
